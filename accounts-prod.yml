@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Global Gateway Bank accounts related PROD APIs"
   contactDetails:
     name: "Ray Jacob - Product Owner"
-    email: "apshuk21@gmail.com"
+    email: "{cipher}836c3522c55aa61b3f39f6ab64712402b5502c7784e2028edfc735a2f634e0871e1063b4eb0d5cd493fac3697a716e9e"
   onCallSupport:
     - (888) 123-1234
     - (888) 234-4321
